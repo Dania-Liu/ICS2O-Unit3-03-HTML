@@ -1,0 +1,23 @@
+#fixed {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
+
+.left {
+  position: absolute;
+  left: 0px;
+  width: 300px;
+}
+
+.right {
+  position: absolute;
+  right: 0px;
+  width: 300px;
+  font-size: 120%;
+}
+
+#image {
+  length: 2000px;
+  width: 500px;
+}
